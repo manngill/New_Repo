@@ -20,6 +20,11 @@ public class ShowDistanceActtivity extends AppCompatActivity {
     TextView textview1;
 
 
+    //Professor p = new Professor(name, lat, lng);
+    //professors.add(p);
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
