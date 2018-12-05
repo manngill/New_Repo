@@ -42,7 +42,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     // Used for Log.d statements
     // ---------------------------
-    final static String TAG = "PUT_YOUR_NAME_HERE!";
+    final static String TAG = "Manpreet kaur";
 
 
     // OKhttp client variables
